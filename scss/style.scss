@@ -1,0 +1,8 @@
+a {
+  color: red;
+  &:hover {
+    background: antiquewhite;
+    color: green;
+    font-weight: bold;
+  }
+}
